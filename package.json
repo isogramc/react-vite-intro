@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "base": "https://isogramc.github.io/",
+  "base": "https://isogramc.github.io/react-vite-intro/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
